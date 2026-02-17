@@ -1,8 +1,8 @@
+# Kioptrix Level 1 Walkthrough
 
-# Ahlaam's Cybersecurity Lab
+Day 1. Target acquired.
 
-Welcome to my hacking lab.
+## Phase 1: Discovery
 
-## Walkthroughs
+First, I scanned the network:
 
-- [Kioptrix Level 1](kioptrix-level1.html)
