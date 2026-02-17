@@ -9,9 +9,9 @@ This site documents my journey from curious student to a genuis penetration test
 
 # whoami
 
- Teaching Assistant at Computer Science department, KNUST, Ghana.
- Focused on becoming a professional penetration tester.
- Just a girl.
+- Teaching Assistant at Computer Science department, KNUST, Ghana.
+- Focused on becoming a professional penetration tester.
+-Just a girl really
 
 
 
