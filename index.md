@@ -11,7 +11,7 @@ This site documents my journey from curious student to a genuis penetration test
 
 - Teaching Assistant at Computer Science department, KNUST, Ghana.
 - Focused on becoming a professional penetration tester.
--Just a girl really
+- Just a girl really
 
 
 # ps aux | grep ahlaam
