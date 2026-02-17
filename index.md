@@ -46,7 +46,7 @@ This site documents my journey from curious student to a genuis penetration test
 
 
 
-# 🚀 cat /proc/self/status
+# cat /proc/self/status
 
 Documenting real machine compromises including:
 
@@ -58,7 +58,7 @@ Documenting real machine compromises including:
 
 # ls ~/writeups
 
-📂 Explore my hacking walkthroughs:
+Explore my hacking walkthroughs:
 
 * [Kioptrix Level 1 Walkthrough](kioptrix-level1.html)
 
@@ -73,8 +73,8 @@ You might wanna check that out.
 
 # Contact
 
-📧 Email: [ahlaamwumpini@gmail.com](mailto:ahlaamwumpini@gmail.com)
-💼 LinkedIn: Ahlaam Abdallah
+Email: [ahlaamwumpini@gmail.com](mailto:ahlaamwumpini@gmail.com)
+LinkedIn: Ahlaam Abdallah
 
 I am open to anything fun
 ---
