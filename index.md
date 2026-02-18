@@ -76,7 +76,7 @@ You might wanna check that out.
 Email: [ahlaamwumpini@gmail.com](mailto:ahlaamwumpini@gmail.com)
 LinkedIn: Ahlaam Abdallah
 
-I am open to anything fun
+I am open to anything fun... or not fun. I will make it fun anyway.
 ---
 
 # $CURRENT_MISSION
